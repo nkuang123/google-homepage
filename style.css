@@ -1,0 +1,88 @@
+/* #logo {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: block;
+    margin: 0 auto;
+    padding-top: 109px;
+    text-align: -webkit-center;
+} */
+
+input {
+    height: 46px;
+    width: 584px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 109px;
+}
+
+a {
+    padding: 10;
+    font-size: 13px;
+    font-family: arial, sans-serif;
+    display: inline;
+}
+
+.navbar {
+    margin-top: 20px;
+}
+
+.navbar-right {
+    float: right;
+}
+
+#apps {
+    width: 30px;
+    height: 30px;
+}
+
+button {
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 5px;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    background-color: #f2f2f2;
+    line-height: 40px;
+    border-top: 1px solid #e4e4e4;
+    margin-left: -10px;
+    bottom: 0;
+    padding-left: 27px;
+}
+
+.foot {
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+
+.footer-left {
+    float: left;
+}
+.footer-right {
+    margin-left: 731px;
+    float: right;
+    padding-right: 10px;
+}
